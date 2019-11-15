@@ -1,3 +1,3 @@
 # natours
 
--practice project for learning SCSS and BEM
+-practice project for learning Sass (SCSS) and BEM
