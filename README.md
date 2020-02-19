@@ -2,4 +2,4 @@
 
 -project for practicing Sass (SCSS)
 
--BEM
+-BEM principles for consistency
